@@ -36,31 +36,50 @@ Hey there! I’m **Eyasu Getaneh**, a passionate software engineer from Ethiopia
 ![Java](https://img.shields.io/badge/java-151515.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-151515.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-151515.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/shell_script-151515.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-151515.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-151515.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Tools  
+### ⚙️ Frameworks & Architecture  
 ![React](https://img.shields.io/badge/react-151515.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-151515.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-151515.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-151515.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-151515.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-151515.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-151515.svg?style=for-the-badge&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/mvvm-151515.svg?style=for-the-badge&logo=android&logoColor=white)
 
-### 🤖 AI / ML  
+### 🧠 AI / ML  
 ![TensorFlow](https://img.shields.io/badge/tensorflow-151515.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-151515.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-151515.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/huggingface-151515.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21F)
 ![Jupyter](https://img.shields.io/badge/jupyter-151515.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-151515.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-151515.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-151515.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-151515.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-151515.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🗄️ Databases  
+### 🗄️ Databases & ORMs  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-151515.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-151515.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-151515.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-151515.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-151515.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ☁️ DevOps  
+### ☁️ DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/docker-151515.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-151515.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🧰 Tools & Design  
+![Git](https://img.shields.io/badge/git-151515.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-151515.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-151515.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-151515.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-151515.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-151515.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -68,7 +87,8 @@ Hey there! I’m **Eyasu Getaneh**, a passionate software engineer from Ethiopia
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=EyasuGet&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EyasuGet&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EyasuGet&theme=aura&hide_border=true" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EyasuGet&theme=aura&hide_border=true" width="50%" /> -->
 </div>
 
 ---
