@@ -119,3 +119,8 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
+
+---
+![GitHub Snake](https://raw.githubusercontent.com/EyasuGet/EyasuGet/output/github-snake-dark.svg)
+
+
